@@ -109,7 +109,7 @@ Vetor3D  vetor_produto(Vetor3D v, Vetor3D r);
 int main(int argc, char *args[])
 {
     setlocale(LC_ALL, "Portuguese");
-    printf("\nTrabalho 2 de implementação de Computação Gráfica -\nAluna: Camilla Andrade Pereira-\n\n");
+    printf("\nTrabalho 2 de implementação de Computação Gráfica\n\n");
     printf("\nAperte as teclas '1' para rotação com quatérnio e '2' para curvas.\n\n");
     trabalho();
 
